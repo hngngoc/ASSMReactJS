@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "product update",
+      "price": 100,
+      "image": "https://th.bing.com/th/id/OIP.VEhlSj01_sNxUEFpGYIPMwHaII?rs=1&pid=ImgDetMain",
+      "desc": "mota1"
+    },
+    {
+      "id": 2,
+      "name": "product 2",
+      "price": 100,
+      "image": "https://th.bing.com/th/id/OIP.VEhlSj01_sNxUEFpGYIPMwHaII?rs=1&pid=ImgDetMain",
+      "desc": "mota2"
+    },
+    {
+      "id": 3,
+      "name": "product 3",
+      "price": 100,
+      "image": "https://th.bing.com/th/id/OIP.VEhlSj01_sNxUEFpGYIPMwHaII?rs=1&pid=ImgDetMain",
+      "desc": "mota3"
+    },
+    {
+      "name": "adssadas",
+      "price": 23123,
+      "image": "https://th.bing.com/th/id/OIP.NW53_ed5H3T-NztCr0j47QHaHa?rs=1&pid=ImgDetMain",
+      "desc": "ádad",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "ngoc4t@gmail.com",
+      "password": "$2a$10$kVtbbRv0jx.tFcLJoaROaeaKVysVT..WXEK8y8bIav2h/5wFDoEGu",
+      "name": "hoangngoc",
+      "confirmPassword": "123456",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$kkH7wtikxly588s4EjpuW.BLb3FOCs0UDOL6sFADkUMjnoRE6R8Cu",
+      "name": "nguyen van ngoc",
+      "confirmPassword": "123456",
+      "id": 2
+    }
+  ]
+}
